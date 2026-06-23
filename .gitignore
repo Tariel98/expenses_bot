@@ -1,0 +1,54 @@
+# Operating system files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE and editor folders
+.vscode/
+.idea/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+env/
+.venv/
+
+# Node
+node_modules/
+package-lock.json
+yarn.lock
+pnpm-lock.yaml
+
+# Logs and temporary files
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+*.tmp
+*.temp
+*.cache
+
+# Build and distribution
+dist/
+build/
+coverage/
+*.egg-info/
+
+credentials.json
+
+_encrypt.py
+.key
+.env
+.env.*
+
+# Misc
+*.swp
+*.lock
+*.sqlite3
