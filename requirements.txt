@@ -22,7 +22,7 @@ reportlab==4.2.2
 cryptography==42.0.8
 
 # Environment variables
-python-dotenv==1.0.1
+python-dotenv==1.2.2
 
 # HTTP / API calls
 requests==2.32.3
